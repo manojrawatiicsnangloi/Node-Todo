@@ -1,0 +1,26 @@
+{
+  "name": "todo-by-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "config": "^3.3.11",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.10",
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.2.2",
+    "nanoid": "^5.0.6",
+    "pino": "^8.19.0",
+    "pino-pretty": "^10.3.1",
+    "yup": "^1.4.0"
+  }
+}
